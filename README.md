@@ -24,7 +24,7 @@ I'm a web developer who builds fast, responsive landing pages and business websi
 ---
 
 ## Service Pricing
-I provide cheap and reliable plans:
+I provide cheap and reliable plans with Free stuffs:
 
 - **Quick Landing Page (1 page)** — ₹1800
   - Responsive design, contact form, revision, deploy
@@ -38,7 +38,7 @@ I provide cheap and reliable plans:
 - **Extra pages** — ~₹250~ ₹150
 
 **Free from me**
-- **Backup*** — Free (daily)
+- **Backups** — Free
 
 **Payment**: 50% upfront, 50% on delivery. I accept only INR in UPI.
 
@@ -75,7 +75,6 @@ I provide cheap and reliable plans:
 ## What I need from you to start
 - Text content (headings, descriptions, contact details)  
 - Logo and images (or permission to use stock photos)  
-- Domain name
 - Example sites you like (style references)
 
 ---
@@ -88,4 +87,6 @@ Send me:
 - How quickly you need it done
 
 Email: sanagkerkar45@gmail.com 
+Discord: 
+Discord server: 
 Or open an issue in this profile repo with the details and I’ll reply with a proposal.
