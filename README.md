@@ -24,15 +24,15 @@ I'm a web developer who builds fast, responsive landing pages and business websi
 ---
 
 ## Service Pricing
-- Quick Landing Page (1 page) — ₹2000
-  - Responsive design, contact form, 1 revision, deploy
-- Small Business Site (3–6 pages) — $400
-  - Multi-page site, basic SEO, contact form, 2 revisions, deploy
-- Template / Ready Site Customization — $100
-- Speed / Mobile Fix — $80
-- Maintenance Retainer — $50 / month
+- Quick Landing Page (1 page) — ₹1800
+  - Responsive design, contact form, revision, deploy
+- Business Site (3–6 pages) — ₹3000
+  - Multi-page site, basic SEO, contact form, revisions, deploy
+- Extra pages – ~₹250~ ₹150
+- **Fixs and small updates** - Free
+- **Maintenance Retainer** — base on the service per month
 
-Payment: 50% upfront, 50% on delivery. I accept PayPal / bank transfer (update to your preferred methods).
+**Payment**: 50% upfront, 50% on delivery. I accept only INR in UPI.
 
 ---
 
@@ -50,7 +50,7 @@ Payment: 50% upfront, 50% on delivery. I accept PayPal / bank transfer (update t
 2. Small Business — Cafe Brochure Site  
 - Tech: HTML, Tailwind, vanilla JS  
 - What I did: Menu page, contact/reservations form, mobile-first styling, image optimization  
-- Repo: https://github.com/V45web/cafe-site-example  
+- : https://github.com/V45web/cafe-site-example  
 - Live demo: https://your-demo-link.example  
 - Screenshot:  
   ![Cafe site screenshot](images/cafe-screenshot.svg)
