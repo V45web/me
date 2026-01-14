@@ -19,25 +19,32 @@ I'm a web developer who builds fast, responsive landing pages and business websi
 - Single-page landing pages (marketing, product launches)
 - Business brochure websites (3–6 pages)
 - Portfolio sites and developer microsites
-- Site speed & mobile fixes
+- Custom sites
 
 ---
 
 ## Service Pricing
-- Quick Landing Page (1 page) — ₹1800
+I provide cheap and reliable plans:
+
+- **Quick Landing Page (1 page)** — ₹1800
   - Responsive design, contact form, revision, deploy
-- Business Site (3–6 pages) — ₹3000
+- **Business Site (3–6 pages)** — ₹3000
   - Multi-page site, basic SEO, contact form, revisions, deploy
-- Extra pages – ~₹250~ ₹150
-- **Fixs and small updates** - Free
-- **Maintenance Retainer** — base on the service per month
+- **Custom sites** — based on site
+  - Every thing customize by your choice.
+ 
+**More**
+- **Maintenance Retainer** — based on the site per month (but cheaper)
+- **Extra pages** — ~₹250~ ₹150
+
+**Free from me**
+- **Backup*** — Free (daily)
 
 **Payment**: 50% upfront, 50% on delivery. I accept only INR in UPI.
 
 ---
 
-## Selected Projects
-> Replace the placeholder links with your actual repo/demo links and add screenshots to this repo's images folder.
+## My Projects
 
 1. Landing Page — Product Launch (example)  
 - Tech: HTML, Tailwind, Netlify Forms  
@@ -65,30 +72,10 @@ I'm a web developer who builds fast, responsive landing pages and business websi
 
 ---
 
-## How I work (simple & predictable)
-1. Scope — I send a short proposal outlining pages, features, and timeline.  
-2. Deposit — 50% upfront to reserve time.  
-3. Build — I deliver a staging URL for review within the agreed timeframe.  
-4. Revisions — 1–2 rounds of revisions included.  
-5. Handover — Final payment, then I give you the production link and source files. Optional maintenance plan available.
-
----
-
-## Tech snippets / quick examples
-- Contact forms that don't need a backend: Formspree, Netlify Forms, Getform  
-- Fast hosting & staging: Netlify / Vercel (continuous deploy from GitHub)  
-- Image optimization: convert images to WebP and use width-appropriate sizes  
-- Simple deploy steps (Netlify):
-  1. Push repo to GitHub
-  2. Connect repo in Netlify → set build command (if any) → publish
-  3. Optionally configure custom domain
-
----
-
 ## What I need from you to start
 - Text content (headings, descriptions, contact details)  
 - Logo and images (or permission to use stock photos)  
-- Domain & host access if you want me to deploy there (or I can deploy to Netlify/Vercel and transfer)  
+- Domain name
 - Example sites you like (style references)
 
 ---
@@ -100,13 +87,5 @@ Send me:
 - Link to current site (if any)
 - How quickly you need it done
 
-Email: your-email@example.com  
+Email: sanagkerkar45@gmail.com 
 Or open an issue in this profile repo with the details and I’ll reply with a proposal.
-
----
-
-Images used here are simple demo screenshots. Replace them with real screenshots from your projects by committing image files to images/ and updating the paths above.
-
-If you want, I can now:
-- Replace placeholder screenshots with real exported screenshots you upload, OR
-- Generate polished PNG screenshots from your live demos and add them to the repo (I’ll need the live URLs).
